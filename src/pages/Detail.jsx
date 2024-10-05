@@ -32,7 +32,7 @@ function Detail(){
     return (
         <>
             <div className="relative w-full h-[80vh] overflow-hidden mt-[125px] z-0">
-                <ReactPlayer url={movie.youtube_trailer} width="100vw" muted={volume} playing className="scale-[1.5]" height="80vh" controls loop></ReactPlayer>
+                <ReactPlayer url={movie.youtube_trailer} width="100vw" muted={volume} playing className="scale-[1.6]" height="80vh" controls loop></ReactPlayer>
                 <div className="absolute left-24 top-56 w-[500px]">
                     {
                         movie.imdb_rating > 8 ? <div className="bg-green-700 inline-block px-3 py-1 rounded text-xs text-white">IMDB Rating {movie.imdb_rating}</div> : <div className="bg-orange-700 inline-block px-3 py-1 rounded text-xs text-white">IMDB Rating {movie.imdb_rating}</div>

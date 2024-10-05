@@ -137,7 +137,7 @@ const data = [
           "imdb_rating": 8.4,
           "actors": ["Aamir Khan", "Madhavan", "Sharman Joshi"],
           "director": "Rajkumar Hirani",
-          "youtube_trailer": "https://www.youtube.com/watch?v=K0eDlFX9GMc",
+          "youtube_trailer": "https://www.youtube.com/watch?v=7PzwOiW8-n0",
           "type" : "Bollywood"
         },
         {
@@ -165,7 +165,7 @@ const data = [
           "imdb_rating": 8.2,
           "actors": ["Dharmendra", "Sanjeev Kumar", "Hema Malini"],
           "director": "Ramesh Sippy",
-          "youtube_trailer": "https://www.youtube.com/watch?v=u2pJU82Xj9M",
+          "youtube_trailer": "https://www.youtube.com/watch?v=XjiluhItzIA",
           "type" : "Bollywood"
         },
         {
