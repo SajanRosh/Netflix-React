@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background: black;
+}
+header{
+    background-color: black;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    width: 100vw;
+}
+/* nav{
+    position: fixed;
+    top: 0;
+    left: 5%;
+    z-index: 1;
+    
+} */
