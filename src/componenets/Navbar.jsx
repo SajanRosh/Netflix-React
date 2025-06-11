@@ -13,7 +13,7 @@ function Navbar(){
                         <Link to='/popular' className="border border-x-neutral-100 py-2 px-4 rounded-md">Most Popular </Link>
                         <Link to={`/movietype/${movieTypes[0]}`} className="border border-x-neutral-100 py-2 px-4 rounded-md">{movieTypes[0]} </Link>
                         <Link to={`/movietype/${movieTypes[1]}`} className="border border-x-neutral-100 py-2 px-4 rounded-md">{movieTypes[1]} </Link>
-                        <Link className="border border-x-neutral-100 py-2 px-4 rounded-md">Login</Link>
+                        <Link className="border border-x-neutral-100 py-2 px-4 rounded-md">Login </Link>
                     </div>
                 </div>
             </header>
