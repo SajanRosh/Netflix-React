@@ -197,10 +197,6 @@ const data = [
           "director": "Vikas Bahl",
           "youtube_trailer": "https://www.youtube.com/watch?v=KGC6vl3lzf0"
         },
-        
-      
-       
-    
     ]
 
       export default data;
