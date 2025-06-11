@@ -8,7 +8,6 @@ import MovieType from "./pages/MovieType";
 function App(){
     return (
         <>
-            {/* <Home></Home> */}
             <Navbar></Navbar>
             <Routes>
                 <Route path="/" element={<Home/>}></Route> 
