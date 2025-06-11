@@ -7,8 +7,7 @@ function MovieCard({img,slug}){
                 <div className="">
                     <img src={img} alt="" className="w-40 h-60 shrink-0 object-cover flex-grow rounded-xl" />
                 </div>
-            </Link>
-            
+            </Link>       
         </>
     )
 }
